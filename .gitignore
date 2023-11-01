@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore compiled files in the "dist" directory (if present)
+dist/
+
+# Ignore any log files
+*.log
+
+# Ignore any build output or compiled files
+build/
+out/
+bin/
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore any local configuration files
+*.local
